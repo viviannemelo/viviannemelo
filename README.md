@@ -1,5 +1,6 @@
-##Hello world! :v: :grin:
-### Bem-vinda, bem-vindo, bem-vinde ao meu GitHub!
+# Hello world! :v: :grin:
+
+## Bem-vinda, bem-vindo, bem-vinde ao meu GitHub!
 
 💻 Atualmente sou estudante de desenvolvimento web fullstack na [Trybe](https://www.betrybe.com/)
 🔍 Em busca de uma oportunidade como Front-end
