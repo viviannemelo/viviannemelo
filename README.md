@@ -45,7 +45,7 @@
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-shopping-cart-trybe">Shopping Cart (TRYBE)</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/"><img width="100%" src="shopping-card.png" alt="Project-preview" /></a>
+      <a href="https://github.com/viviannemelo/project-shopping-cart-trybe"><img width="100%" src="shopping-card.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Ferramentas:</strong> React, HTML, CSS, JavaScript ES6+ e Jest</em></p>
