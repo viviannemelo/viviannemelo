@@ -71,7 +71,22 @@
         <li>Criar interatividade em página utilizando event listeners.</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+<td valign="top" width="50%">
+     <h2 align="center"><a href="https://github.com/viviannemelo/plataforma-tocae">Plataforma Tocaê</a></h2>
+     <a href="https://github.com/viviannemelo/plataforma-tocae"><img width="100%" src="tocae.png" alt="Project-preview" /></a>
+     <br>
+     <br>
+     <p><em><strong>Ferramentas:</strong>HTML e CSS</em></p>
+     <ul>
+       <li>Estruturar uma página com HTML;</li>
+       <li>Aplicar CSS para estilizar;</li>
+       <li>Construir página do zero;</li>
+       <li>Aplicar Layout e Box Model;</li>
+     </ul>
+    </td>
+  </tr>
+  <tr>
+      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-lessons-learned-trybe">Lessons Learned (TRYBE)</a></h2>
       <a href="https://github.com/viviannemelo/project-lessons-learned-trybe"><img width="100%" src="lessons-learned.png" alt="Project-preview" /></a>
       <br>
