@@ -7,7 +7,7 @@
 - 🌱 Entusiasta com tudo o que é criativo e curioso
 
 <br>
-<div align="center"><a href="https://github.com/viviannemelo"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviannemelo&layout=compact&langs_count=7&theme=dracula"/><img height="160em" src="https://github-readme-stats.vercel.app/api?username=viviannemelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+<div align="center"><a href="https://github.com/viviannemelo"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviannemelo&layout=compact&langs_count=7&theme=dracula"/></div>
 
  <h2 align="center">Ferramentas e Tecnologias</h2>
 <div align="center">
@@ -31,7 +31,7 @@
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-trybetunes-trybe">Trybetunes (TRYBE)</a></h2>
-      <a href="https://github.com/viviannemelo/project-trybetunes-trybe"><img width="100%" src="solar-system.png" alt="Project-preview" /></a>
+      <a href="https://github.com/viviannemelo/project-trybetunes-trybe"><img width="100%" src="trybetunes.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Ferramentas:</strong> React, HTML, CSS, JavaScript ES6+ e MUI</em></p>
