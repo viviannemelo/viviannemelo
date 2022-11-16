@@ -30,6 +30,20 @@
 <table align="center">
   <tr>
     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/viviannemelo/project-trybetunes-trybe">Trybetunes (TRYBE)</a></h2>
+      <a href="https://github.com/viviannemelo/project-trybetunes-trybe"><img width="100%" src="solar-system.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>Ferramentas:</strong> React, HTML, CSS, JavaScript ES6+ e MUI</em></p>
+      <ul>
+        <li>Desenvolvimento com React;</li>
+        <li>Consumo de API;</li>
+        <li>Criar rotas, mapeando o caminho da URL com o componente correspondente, via Route;</li>
+        <li>Utilizar a função setState;</li>
+        <li>MUI para estilização;</li>
+      </ul>
+    </td>
+     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-solar-system-trybe">Solar System (TRYBE)</a></h2>
       <a href="https://github.com/viviannemelo/project-solar-system-trybe"><img width="100%" src="solar-system.png" alt="Project-preview" /></a>
       <br>
@@ -43,6 +57,8 @@
         <li>Utilizar ProtoTypes para validação de props;</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-shopping-cart-trybe">Shopping Cart (TRYBE)</a></h2>
       <a href="https://github.com/viviannemelo/project-shopping-cart-trybe"><img width="100%" src="shopping-card.png" alt="Project-preview" /></a>
@@ -57,26 +73,12 @@
         <li>Armazenar dados no localStorage.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/viviannemelo/project-pixels-art-trybe">Pixels Art (TRYBE)</a></h2>
-      <a href="https://github.com/viviannemelo/project-pixels-art-trybe"><img width="100%" src="pixels-art.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>Ferramentas:</strong>HTML, CSS e JavaScript ES6+</em></p>
-      <ul>
-        <li>Desenvolvimento com HTML, CSS e JavaScript;</li>
-        <li>Manipulação do DOM para acessar elementos HTML;</li>
-        <li>Criar interatividade em página utilizando event listeners.</li>
-      </ul>
-    </td>
 <td valign="top" width="50%">
      <h2 align="center"><a href="https://github.com/viviannemelo/plataforma-tocae">Plataforma Tocaê</a></h2>
      <a href="https://github.com/viviannemelo/plataforma-tocae"><img width="100%" src="tocae.png" alt="Project-preview" /></a>
      <br>
      <br>
-     <p><em><strong>Ferramentas:</strong>HTML e CSS</em></p>
+     <p><em><strong>Ferramentas: </strong>HTML e CSS</em></p>
      <ul>
        <li>Estruturar uma página com HTML;</li>
        <li>Aplicar CSS para estilizar;</li>
@@ -86,12 +88,24 @@
     </td>
   </tr>
   <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/viviannemelo/project-pixels-art-trybe">Pixels Art (TRYBE)</a></h2>
+      <a href="https://github.com/viviannemelo/project-pixels-art-trybe"><img width="100%" src="pixels-art.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>Ferramentas:</strong> HTML, CSS e JavaScript ES6+</em></p>
+      <ul>
+        <li>Desenvolvimento com HTML, CSS e JavaScript;</li>
+        <li>Manipulação do DOM para acessar elementos HTML;</li>
+        <li>Criar interatividade em página utilizando event listeners.</li>
+      </ul>
+     </td>
       <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-lessons-learned-trybe">Lessons Learned (TRYBE)</a></h2>
       <a href="https://github.com/viviannemelo/project-lessons-learned-trybe"><img width="100%" src="lessons-learned.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Ferramentas:</strong>HTML e CSS</em></p>
+      <p><em><strong>Ferramentas:</strong> HTML e CSS</em></p>
       <ul>
         <li>Estruturar uma página com HTML;</li>
         <li>Aplicar CSS para estilizar;</li>
