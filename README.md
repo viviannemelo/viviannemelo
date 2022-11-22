@@ -75,7 +75,7 @@
     </td>
 <td valign="top" width="50%">
      <h2 align="center"><a href="https://github.com/viviannemelo/project-trybe-zoo-function">Zoo Function (TRYBE)</a></h2>
-     <a href="https://github.com/viviannemelo/project-trybe-zoo-function"><img width="100%" src="zoo-function" alt="illustrator-image" /></a>
+     <a href="https://github.com/viviannemelo/project-trybe-zoo-function"><img width="100%" src="zoo-function.jpg" alt="illustrator-image" /></a>
      <br>
      <br>
      <p><em><strong>Ferramentas: </strong>JavaScript ES6+</em></p>
