@@ -5,6 +5,7 @@
 - 💻 Atualmente sou estudante de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/)
 - 🔍 Em busca de uma oportunidade como Front-end
 - 🌱 Entusiasta com tudo o que é criativo e curioso
+- ☕️ Degustadora de cappuccino
 
 <br>
 <div align="center"><a href="https://github.com/viviannemelo"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviannemelo&layout=compact&langs_count=7&theme=dracula"/></div>
