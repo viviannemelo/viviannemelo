@@ -26,7 +26,7 @@
 <div> <a href = "mailto:viviannemmelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/viviannemelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
   
   
-<h1 align="center">Projects</h1>
+<h1 align="center">Projetos</h1>
 <table align="center">
   <tr>
     <td valign="top" width="50%">
@@ -74,6 +74,21 @@
       </ul>
     </td>
 <td valign="top" width="50%">
+     <h2 align="center"><a href="https://github.com/viviannemelo/project-trybe-zoo-function">Zoo Function (TRYBE)</a></h2>
+     <a href="https://github.com/viviannemelo/project-trybe-zoo-function"><img width="100%" src="zoo-function" alt="illustrator-image" /></a>
+     <br>
+     <br>
+     <p><em><strong>Ferramentas: </strong>JavaScript ES6+</em></p>
+     <ul>
+       <li>Arrow functions, template literals;</li>
+       <li>Spread Operator e Object destructing;</li>
+       <li>HOFs em arrays;</li>
+       <li>Testes unitários - TDD;</li>
+     </ul>
+    </td>
+  </tr>
+  <tr>
+<td valign="top" width="50%">
      <h2 align="center"><a href="https://github.com/viviannemelo/plataforma-tocae">Plataforma Tocaê</a></h2>
      <a href="https://github.com/viviannemelo/plataforma-tocae"><img width="100%" src="tocae.png" alt="Project-preview" /></a>
      <br>
@@ -86,9 +101,7 @@
        <li>Aplicar Layout e Box Model;</li>
      </ul>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
+      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-pixels-art-trybe">Pixels Art (TRYBE)</a></h2>
       <a href="https://github.com/viviannemelo/project-pixels-art-trybe"><img width="100%" src="pixels-art.png" alt="Project-preview" /></a>
       <br>
@@ -100,19 +113,22 @@
         <li>Criar interatividade em página utilizando event listeners.</li>
       </ul>
      </td>
-      <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/viviannemelo/project-lessons-learned-trybe">Lessons Learned (TRYBE)</a></h2>
-      <a href="https://github.com/viviannemelo/project-lessons-learned-trybe"><img width="100%" src="lessons-learned.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>Ferramentas:</strong> HTML e CSS</em></p>
-      <ul>
-        <li>Estruturar uma página com HTML;</li>
-        <li>Aplicar CSS para estilizar;</li>
-        <li>Construir página do zero;</li>
-        <li>Aplicar Layout e Box Model;</li>
-        <li>Utilizar links externos;</li>
-      </ul>
+  </tr>
+  <tr>
+    </td>
+  <td valign="top" width="50%">
+  <h2 align="center"><a href="https://github.com/viviannemelo/project-lessons-learned-trybe">Lessons Learned (TRYBE)</a></h2>
+  <a href="https://github.com/viviannemelo/project-lessons-learned-trybe"><img width="100%" src="lessons-learned.png" alt="Project-preview" /></a>
+  <br>
+  <br>
+  <p><em><strong>Ferramentas:</strong> HTML e CSS</em></p>
+  <ul>
+    <li>Estruturar uma página com HTML;</li>
+    <li>Aplicar CSS para estilizar;</li>
+    <li>Construir página do zero;</li>
+    <li>Aplicar Layout e Box Model;</li>
+    <li>Utilizar links externos;</li>
+  </ul>
     </td>
   </tr>
 </table>
