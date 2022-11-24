@@ -37,7 +37,7 @@
    <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/react-testing-library-trybe">React Testing Library (TRYBE)</a></h2>
-      <a href="https://github.com/viviannemelo/react-testing-library-trybe"><img width="100%" src="trybetunes.png" alt="Project-preview" /></a>
+      <a href="https://github.com/viviannemelo/react-testing-library-trybe"><img width="100%" src="./image-projects/react-testing-library.jpg" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Ferramentas:</strong> React, Testing Library</em></p>
@@ -50,7 +50,7 @@
     </td>
 <!--      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-solar-system-trybe">Solar System (TRYBE)</a></h2>
-      <a href="https://github.com/viviannemelo/project-solar-system-trybe"><img width="100%" src="solar-system.png" alt="Project-preview" /></a>
+      <a href="https://github.com/viviannemelo/project-solar-system-trybe"><img width="100%" src="./image-projects/solar-system.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Ferramentas:</strong> React, HTML, CSS e JavaScript ES6+</em></p>
@@ -66,7 +66,7 @@
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-trybetunes-trybe">Trybetunes (TRYBE)</a></h2>
-      <a href="https://github.com/viviannemelo/project-trybetunes-trybe"><img width="100%" src="trybetunes.png" alt="Project-preview" /></a>
+      <a href="https://github.com/viviannemelo/project-trybetunes-trybe"><img width="100%" src="./image-projects/trybetunes.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Ferramentas:</strong> React, HTML, CSS, JavaScript ES6+ e MUI</em></p>
@@ -80,7 +80,7 @@
     </td>
      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-solar-system-trybe">Solar System (TRYBE)</a></h2>
-      <a href="https://github.com/viviannemelo/project-solar-system-trybe"><img width="100%" src="solar-system.png" alt="Project-preview" /></a>
+      <a href="https://github.com/viviannemelo/project-solar-system-trybe"><img width="100%" src="./image-projects/solar-system.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Ferramentas:</strong> React, HTML, CSS e JavaScript ES6+</em></p>
@@ -96,7 +96,7 @@
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-shopping-cart-trybe">Shopping Cart (TRYBE)</a></h2>
-      <a href="https://github.com/viviannemelo/project-shopping-cart-trybe"><img width="100%" src="shopping-card.png" alt="Project-preview" /></a>
+      <a href="https://github.com/viviannemelo/project-shopping-cart-trybe"><img width="100%" src="./image-projects/shopping-card.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Ferramentas:</strong> React, HTML, CSS, JavaScript ES6+ e Jest</em></p>
@@ -110,7 +110,7 @@
     </td>
 <td valign="top" width="50%">
      <h2 align="center"><a href="https://github.com/viviannemelo/project-trybe-zoo-function">Zoo Function (TRYBE)</a></h2>
-     <a href="https://github.com/viviannemelo/project-trybe-zoo-function"><img width="100%" src="zoo-function.jpg" alt="illustrator-image" /></a>
+     <a href="https://github.com/viviannemelo/project-trybe-zoo-function"><img width="100%" src="./image-projects/zoo-function.jpg" alt="illustrator-image" /></a>
      <br>
      <br>
      <p><em><strong>Ferramentas: </strong>JavaScript ES6+</em></p>
@@ -125,7 +125,7 @@
   <tr>
 <td valign="top" width="50%">
      <h2 align="center"><a href="https://github.com/viviannemelo/plataforma-tocae">Plataforma Tocaê</a></h2>
-     <a href="https://github.com/viviannemelo/plataforma-tocae"><img width="100%" src="tocae.png" alt="Project-preview" /></a>
+     <a href="https://github.com/viviannemelo/plataforma-tocae"><img width="100%" src="./image-projects/tocae.png" alt="Project-preview" /></a>
      <br>
      <br>
      <p><em><strong>Ferramentas: </strong>HTML e CSS</em></p>
@@ -138,7 +138,7 @@
     </td>
       <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-pixels-art-trybe">Pixels Art (TRYBE)</a></h2>
-      <a href="https://github.com/viviannemelo/project-pixels-art-trybe"><img width="100%" src="pixels-art.png" alt="Project-preview" /></a>
+      <a href="https://github.com/viviannemelo/project-pixels-art-trybe"><img width="100%" src="./image-projects/pixels-art.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Ferramentas:</strong> HTML, CSS e JavaScript ES6+</em></p>
@@ -153,7 +153,7 @@
     </td>
   <td valign="top" width="50%">
   <h2 align="center"><a href="https://github.com/viviannemelo/project-lessons-learned-trybe">Lessons Learned (TRYBE)</a></h2>
-  <a href="https://github.com/viviannemelo/project-lessons-learned-trybe"><img width="100%" src="lessons-learned.png" alt="Project-preview" /></a>
+  <a href="https://github.com/viviannemelo/project-lessons-learned-trybe"><img width="100%" src="./image-projects/lessons-learned.png" alt="Project-preview" /></a>
   <br>
   <br>
   <p><em><strong>Ferramentas:</strong> HTML e CSS</em></p>
