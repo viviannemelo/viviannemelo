@@ -34,6 +34,35 @@
   
 <h1 align="center">Projetos</h1>
 <table align="center">
+   <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/viviannemelo/react-testing-library-trybe">React Testing Library (TRYBE)</a></h2>
+      <a href="https://github.com/viviannemelo/react-testing-library-trybe"><img width="100%" src="trybetunes.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>Ferramentas:</strong> React, Testing Library</em></p>
+      <ul>
+        <li>Testes Unitários;</li>
+        <li>Testar fluxos lógicos assíncronos;</li>
+        <li>Testar inputs.</li>
+        <li>Utilizar queries e mocks;</li>
+      </ul>
+    </td>
+<!--      <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/viviannemelo/project-solar-system-trybe">Solar System (TRYBE)</a></h2>
+      <a href="https://github.com/viviannemelo/project-solar-system-trybe"><img width="100%" src="solar-system.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>Ferramentas:</strong> React, HTML, CSS e JavaScript ES6+</em></p>
+      <ul>
+        <li>Desenvolvimento com HTML, CSS e JavaScript;</li>
+        <li>Utilizar JSX no React;</li>
+        <li>Utilizar componentes para diferentes arquivos;</li>
+        <li>Utilizar componentes de classe;</li>
+        <li>Utilizar ProtoTypes para validação de props;</li>
+      </ul>
+    </td> -->
+  </tr>
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/project-trybetunes-trybe">Trybetunes (TRYBE)</a></h2>
