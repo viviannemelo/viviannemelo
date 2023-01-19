@@ -40,7 +40,7 @@
       <a href="https://github.com/viviannemelo/react-testing-library-trybe"><img width="100%" src="./image-projects/react-testing-library.jpg" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Ferramentas:</strong> React, Testing Library</em></p>
+      <p><em><strong>Ferramentas:</strong> React Testing Library</em></p>
       <ul>
         <li>Testes Unitários;</li>
         <li>Testar fluxos lógicos assíncronos;</li>
@@ -48,20 +48,18 @@
         <li>Utilizar queries e mocks;</li>
       </ul>
     </td>
-<!--      <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/viviannemelo/project-solar-system-trybe">Solar System (TRYBE)</a></h2>
-      <a href="https://github.com/viviannemelo/project-solar-system-trybe"><img width="100%" src="./image-projects/solar-system.png" alt="Project-preview" /></a>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/viviannemelo/javascript-unit-tests">Javascript Unit Tests</a></h2>
+      <a href="https://github.com/viviannemelo/javascript-unit-tests"><img width="100%" src="./image-projects/js-unit-tests.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Ferramentas:</strong> React, HTML, CSS e JavaScript ES6+</em></p>
+      <p><em><strong>Ferramentas:</strong> Jest e NodeJS</em></p>
       <ul>
-        <li>Desenvolvimento com HTML, CSS e JavaScript;</li>
-        <li>Utilizar JSX no React;</li>
-        <li>Utilizar componentes para diferentes arquivos;</li>
-        <li>Utilizar componentes de classe;</li>
-        <li>Utilizar ProtoTypes para validação de props;</li>
+        <li>Desenvolvimento de testes em JavaScript;</li>
+        <li>TDD;</li>
+        <li>Teste de regressão;</li>
       </ul>
-    </td> -->
+    </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
