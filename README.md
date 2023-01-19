@@ -50,7 +50,7 @@
     </td>
      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/javascript-unit-tests">Javascript Unit Tests</a></h2>
-      <a href="https://github.com/viviannemelo/javascript-unit-tests"><img width="100%" src="./image-projects/js-unit-tests.png" alt="Project-preview" /></a>
+      <a href="https://github.com/viviannemelo/javascript-unit-tests"><img width="100%" src="./image-projects/js-unit-tests.jpg" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Ferramentas:</strong> Jest e NodeJS</em></p>
@@ -58,6 +58,7 @@
         <li>Desenvolvimento de testes em JavaScript;</li>
         <li>TDD;</li>
         <li>Teste de regressão;</li>
+        <li>Desenvolvimento de funções baseadas em testes existentes</li>
       </ul>
     </td>
   </tr>
