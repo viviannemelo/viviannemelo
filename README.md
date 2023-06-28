@@ -1,7 +1,6 @@
 # Olá, visitante! :v::grin:
 
 - 💻 Atualmente sou estudante de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/)
-- 🌱 Em busca de uma oportunidade como Analista de Teste | QA Jr.
 - ☕️ Degustadora de cappuccino
 
 <br>
