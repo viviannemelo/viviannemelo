@@ -1,6 +1,7 @@
 # Olá, visitante! :v::grin:
 
-- 💻 Atualmente sou estudante de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/)
+- 💻 Desenvolvimento Web Full Stack formada pela [Trybe](https://www.betrybe.com/)
+- 🔍 Fascinada por qualidade de software
 - ☕️ Degustadora de cappuccino
 
 <br>
