@@ -1,8 +1,6 @@
-# Olá, visitante! :v::grin:
-
-- 💻 Desenvolvimento Web Full Stack formada pela [Trybe](https://www.betrybe.com/)
-- 🔍 Fascinada por qualidade de software
-- ☕️ Degustadora de cappuccino
+- 💻 Quality Assurance | Full-Stack Web Developer
+- 🔍 Curious about new technologies
+- ☕️ Cappuccino lover
 
 <br>
 <div align="center"><a href="https://github.com/viviannemelo"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviannemelo&layout=compact&langs_count=7&theme=dracula"/></div>
@@ -21,19 +19,39 @@
   </div>
 
 
-<!-- <div align="center">
-  
-![Snake animation](https://github.com/viviannemelo/viviannemelo/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
- -->
-
 ## Entre em contato comigo:
 <div> <a href = "mailto:viviannemmelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/viviannemelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
   
   
 <h1 align="center">Projetos</h1>
 <table align="center">
+   <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/viviannemelo/automated-api-testing-httparty">API testing with HTTParty + Rspec</a></h2>
+      <a href="https://github.com/viviannemelo/automated-api-testing-httparty"><img width="100%" src="https://miro.medium.com/v2/resize:fit:699/1*2vCX4pngQZm5vQ_3AzShhg.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>Ferramentas:</strong> HTTParty e Rspec</em></p>
+      <ul>
+        <li>Automação de testes;</li>
+        <li>Ruby;</li>
+        <li>Teste de API;</li>
+      </ul>
+     </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/viviannemelo/cep-api-test">CEP API Test</a></h2>
+      <a href="https://github.com/viviannemelo/cep-api-test"><img width="100%" src="https://viacep.com.br/estatico/images/viacep.png.pagespeed.ce.I80LiA6qpr.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>Ferramentas:</strong> HTTParty e Postman</em></p>
+      <ul>
+        <li>Automação de testes;</li>
+        <li>Teste de API;</li>
+        <li>BDD;</li>
+        <li>Gherkin;</li>
+      </ul>
+     </td>
+   </tr>
    <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/viviannemelo/react-testing-library-trybe">React Testing Library (TRYBE)</a></h2>
