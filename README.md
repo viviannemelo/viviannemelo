@@ -1,11 +1,13 @@
-- 💻 Quality Assurance | Full-Stack Web Developer
-- 🔍 Curious about new technologies
+- 💻 Software QA Automation Engineer | Process Improvement & Compliance
+- 🔍 Always searching new technologies
 - ☕️ Cappuccino lover
+
+<p>Professional with over 3 years of experience in Quality Assurance (QA), test automation, and continuous process improvement. Solid track record in international projects within agile environments, collaborating with cross-functional teams to drive continuous delivery, operational efficiency, and user-centered quality. Strong focus on technical leadership, internal training, process standardization, and evaluation of system and delivery quality.</p>
 
 <br>
 <div align="center"><a href="https://github.com/viviannemelo"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviannemelo&layout=compact&langs_count=7&theme=dracula"/></div>
 
- <h2 align="center">Ferramentas e Tecnologias</h2>
+ <h2 align="center">Tools & Technologies</h2>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
@@ -19,7 +21,7 @@
   </div>
 
 
-## Entre em contato comigo:
+## Contact:
 <div> <a href = "mailto:viviannemmelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/viviannemelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
   
   
