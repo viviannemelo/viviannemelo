@@ -1,8 +1,6 @@
-- 💻 Software QA Automation Engineer | Process Improvement & Compliance
-- 🔍 Always searching new technologies
-- ☕️ Cappuccino lover
+💻 QA Engineer | Test Automation | AI-driven QA
 
-<p>Professional with over 3 years of experience in Quality Assurance (QA), test automation, and continuous process improvement. Solid track record in international projects within agile environments, collaborating with cross-functional teams to drive continuous delivery, operational efficiency, and user-centered quality. Strong focus on technical leadership, internal training, process standardization, and evaluation of system and delivery quality.</p>
+<p>Experiência em automação front-end, back-end, mobile e performance testing, atuando na construção de frameworks escaláveis, melhoria contínua de processos de qualidade e automação operacional com IA. Experiência em liderança técnica de múltiplos projetos, desenvolvimento de soluções utilizando Playwright, testes de performance e integração de pipelines CI/CD.</p>
 
 <br>
 <div align="center"><a href="https://github.com/viviannemelo"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviannemelo&layout=compact&langs_count=7&theme=dracula"/></div>
